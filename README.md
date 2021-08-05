@@ -11,3 +11,4 @@ Please open an issue [here](https://github.com/umijs/umi/issues?q=is%3Aissue+is%
 ## LICENSE
 
 MIT
+yuanzhixin
